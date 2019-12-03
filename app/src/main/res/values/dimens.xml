@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <dimen name="bt_corner_radius_2">2dp</dimen>
+    <dimen name="bt_corner_radius_4">4dp</dimen>
+    <dimen name="bt_width_100">100dp</dimen>
+    <dimen name="bt_width_120">120dp</dimen>
+    <dimen name="bt_width_200">200dp</dimen>
+    <dimen name="bt_height_56">56dp</dimen>
+    <dimen name="bt_height_8">8dp</dimen>
+    <dimen name="bt_height_4">4dp</dimen>
+    <integer name="bt_animation">500</integer>
+</resources>
